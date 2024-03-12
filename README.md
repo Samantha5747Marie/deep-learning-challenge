@@ -11,7 +11,7 @@ The variables that should be removed are "EIN" and "NAME"
 Compiling, Training, and Evaluating the Model
 I used 15 neurons and 10 for the 2 layers and then 1 neuron for the output layer with the relu function 
 The model performance was at 72.91% which is pretty accurate .
-While trying to increase the models performance in the AlphabetSoupCharity_Optimization i changed the neurons many times, added and took away layers, changed the value count on the classification and application counts but the performance and i did get it up to 73% but then i tried changing things again and wasn't able to get back to that. So after a handful of times changing things it was lower than the first time ending at 72.70%. 
+While trying to increase the models performance in the AlphabetSoupCharity_Optimization i changed the neurons many times, added and took away layers, changed the value count on the classification and application counts but the performance and i did get it up to 73% but then i tried changing things again and wasn't able to get back to that. So after a handful of times changing things it end at 73.10%. 
 
 Images:
 I first tried changing these: 
